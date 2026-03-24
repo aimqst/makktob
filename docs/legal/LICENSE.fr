@@ -1,0 +1,20 @@
+CONTRAT DE LICENCE - PLATEFORME MAKTOOB
+
+Auteur et propriétaire unique : Mohamed Atef
+Date : 23 mars 2026
+
+Art. 1 : Propriété intellectuelle - Propriété exclusive de Mohamed Atef. Le piratage est un crime.
+Art. 2 : Interdiction commerciale - Aucun usage commercial sans contrat formel.
+Art. 3 : Traçage numérique - Contient des empreintes numériques cachées pour le suivi légal.
+Art. 4 : Sanctions financières - Amende de 10 000 USD par mois pour usage illégal.
+Art. 5 : Saisie financière - Les plateformes de paiement seront informées pour geler les fonds.
+Art. 6 : Litige international - Poursuites pénales dans le pays de résidence du contrevenant.
+Art. 7 : Responsabilité complice - Les développeurs aidant au vol de code sont co-responsables.
+Art. 8 : DMCA Takedown - Fermeture immédiate des sites hébergeant le code volé.
+Art. 9 : Altération des documents - Supprimer les fichiers légaux double les pénalités.
+Art. 10 : Force exécutoire - Le téléchargement implique l'acceptation irrévocable des termes.
+Art. 11 : Limites d'utilisation - Usage personnel et éducatif uniquement. Pas de redistribution.
+Art. 12 : Identité visuelle - Le logo et le nom du développeur doivent rester visibles dans l'UI.
+Art. 13 : Non-redistribution - Interdiction stricte de publier le code source sur GitHub ou ailleurs.
+
+Copyright © 2026 - Mohamed Atef. Tous droits réservés.
